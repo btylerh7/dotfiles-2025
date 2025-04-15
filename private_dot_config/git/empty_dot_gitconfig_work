@@ -1,0 +1,6 @@
+[user]
+name = "Tyler Baker"
+email = "tyler.baker@gcpsk12.org"
+
+[init]
+defaultBranch = master
